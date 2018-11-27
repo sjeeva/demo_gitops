@@ -1,0 +1,6 @@
+{
+  "name": "GitOps Demo",
+  "description": "A barebones Node.js app using Express 4 for GitOps demo",
+  "repository": "https://github.com/sjeeva/demo_gitops/",
+  "keywords": ["node", "express", "static", "GitOps"]
+}
